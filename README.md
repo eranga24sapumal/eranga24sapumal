@@ -21,9 +21,16 @@ Welcome to my GitHub portfolio! I'm a passionate Full Stack Developer who loves 
 - MSSQL, SQLite, PostgreSQL, MySql
 
 ### DevOps:
-- Docker,
+- Docker
 - CI/CD with GitHub Actions, Azure DevOps
 
 ### Tools:
 - Git, GitHub, Visual Studio
-- Postman, Azure, Jira, SVN, 
+- Postman, Azure, Jira, SVN,
+
+## 🤝 Let's Connect!
+Feel free to check out my work, or reach out if you'd like to collaborate or chat about web development. I'm always open to learning new things and working on cool projects!
+
+- [LinkedIn](www.linkedin.com/in/eranga-dayarathne)
+- [stackoverflow](https://stackoverflow.com/users/18541558/eranga-dayarathne)
+
