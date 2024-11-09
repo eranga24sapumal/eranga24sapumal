@@ -8,3 +8,22 @@ Welcome to my GitHub portfolio! I'm a passionate Full Stack Developer who loves 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/eranga-dayarathne) | [Email](eranga24sapumal@gmail.com)
 - 😄 Fun fact: I love learning new programming languages and AI!
 
+## 🛠️ Tech Stack
+
+### Front-End:
+- React.js
+- HTML, CSS, JavaScript
+- DevEXpres, CSS, Material-UI
+
+### Back-End:
+- Asp.net
+- RESTful APIs, GraphQL
+- MSSQL, SQLite, PostgreSQL, MySql
+
+### DevOps:
+- Docker,
+- CI/CD with GitHub Actions, Azure DevOps
+
+### Tools:
+- Git, GitHub, Visual Studio
+- Postman, Azure, Jira, SVN, 
