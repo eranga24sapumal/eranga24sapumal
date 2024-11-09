@@ -1,4 +1,5 @@
-# Hi there, I'm [Eranga] 👋
+# Hi there, I'm Eranga 👋
+Welcome to my GitHub portfolio! I'm a passionate Full Stack Developer who loves to build innovative and efficient web applications. Here, you’ll find some of the projects I've worked on, ranging from front-end user interfaces to back-end APIs. Feel free to explore my repositories, and if you have any questions or want to collaborate, don't hesitate to reach out.
 
 <!--
 **eranga24sapumal/eranga24sapumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
