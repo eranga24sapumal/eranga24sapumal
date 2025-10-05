@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I'm a passionate Full Stack Developer who loves 
 ## 🛠️ Tech Stack
 
 ### Front-End:
-- React.js
+- Angular, React.js
 - HTML, CSS, JavaScript
 - DevEXpres, CSS, Material-UI
 
